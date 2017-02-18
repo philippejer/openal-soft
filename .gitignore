@@ -5,3 +5,5 @@ include/SLES
 include/sndio.h
 include/sys
 openal-soft.kdev4
+/build-*/
+/install-*/
